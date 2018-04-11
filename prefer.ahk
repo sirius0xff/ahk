@@ -7,7 +7,7 @@ SetCapsLockState,OFF
 
 ; F2::WinSet, Transparent, 80,A
 ; F3::WinSet, Transparent, 255,A
-
+ ;
 ; ~^c::
     ; sleep 300 
     ; x:=clipboard
