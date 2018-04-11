@@ -1,13 +1,12 @@
 ﻿#SingleInstance force
 ;#NoTrayIcon
-SetTitleMatchMode RegEx
+SetTitleMatchMode RegEx 
 SendMode Input
 SetCapsLockState,OFF
 
-; dsadsa
 ; F2::WinSet, Transparent, 80,A
 ; F3::WinSet, Transparent, 255,A
- ;
+
 ; ~^c::
     ; sleep 300 
     ; x:=clipboard
